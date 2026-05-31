@@ -1,0 +1,42 @@
+title: "Alexandre Bernardino"
+description: "Academic homepage of Alexandre Bernardino"
+url: "https://alexbernardino.github.io"
+baseurl: ""
+
+author:
+  name: "Alexandre Bernardino"
+  email: "bernardino.alexandre@gmail.com"
+
+markdown: kramdown
+theme: null
+
+plugins:
+  - jekyll-scholar
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle
+
+scholar:
+  style: ieee
+  locale: en
+
+  source: ./_bibliography
+  bibliography: publications.bib
+  bibliography_template: bib
+
+  sort_by: year
+  order: descending
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: page
+  details_link: "Details"
+
+  query: "@*"
+
