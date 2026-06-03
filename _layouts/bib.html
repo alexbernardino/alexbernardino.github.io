@@ -1,0 +1,24 @@
+{{ reference }}
+
+{% if entry.status %}
+  <span class="paper-status">[{{ entry.status }}]</span>
+{% endif %}
+
+<span class="paper-links-inline">
+  {% if entry.url %}
+    <a href="{{ entry.url }}" target="_blank" rel="noopener noreferrer">[paper]</a>
+  {% elsif entry.doi %}
+    <a href="https://doi.org/{{ entry.doi }}" target="_blank" rel="noopener noreferrer">[paper]</a>
+  {% endif %}
+
+  {% if entry.pdf %}
+    <a href="{{ entry.pdf | relative_url }}" target="_blank" rel="noopener noreferrer">[pdf]</a>
+  {% endif %}
+
+  {% if entry.code %}
+    <a href="{{ entry.code }}" target="_blank" rel="noopener noreferrer">[code]</a>
+  {% endif %}
+</span>
+
+
+

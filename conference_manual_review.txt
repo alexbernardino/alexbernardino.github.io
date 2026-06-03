@@ -1,0 +1,31 @@
+Conference entries without DOI resolver metadata, or needing manual cleanup:
+
+Accepted / not yet published:
+C1  Cost-Efficient Multi-Scale Fovea for Semantic-Based Visual Search Attention
+C2  Integrating Deep RL and Bayesian Inference for Object Search in Mobile Robotics
+C3  The Role of Trajectory Prediction in the Perception of Approaching Agents
+C4  Dual Field of View Gaze Estimation with Knowledge Distillation for Mobile Robots
+C5  Vision-Based Unmanned Aerial Vehicle Pose Correction Using a Digital Model
+C6  Conformal Aerial Geo-Localization Through Visual Place Recognition
+
+Malformed / duplicate in pasted list:
+C46 appears to duplicate C45 text and then repeats a different C47-like entry. Check manually before adding.
+
+Entries with non-DOI links or PDF/institutional links:
+C37  Optical flow methods for tracer-based imaging techniques in fluid mechanics — ISBN only
+C82  Evaluating aerial vessel detector in multiple maritime surveillance scenarios — IEEE document URL, no DOI in pasted text
+C118 A Ground-based vision System for UAV Pose Estimation — PDF URL
+C126 A Framework for 3D Object Identification and Tracking — IEEE document URL, no DOI in pasted text
+C127 Towards Fully Automated Person Re-Identification — IEEE document URL, no DOI in pasted text
+C152 Image Driven Generation of Pose Hypotheses for 3D Model-Based Tracking — PDF URL
+C157 Vignetting Correction for Pan-Tilt Surveillance Cameras — PDF URL
+C158 Robotic Color Image Segmentation by Means of Finite Mixture Models — PDF URL
+C185 Acquisition of 3D Regular Prismatic Models in Urban Environments from DSM and Orthoimages — PDF/ISBN
+C187 A Developmental Roadmap for Task Learning by Imitation in Humanoid Robots — PDF/ISBN
+C192 Highway Lane Detection and Classification Using Vehicle Motion Trajectories — Acta Press URL
+C193 Retrieval of Vehicle Trajectories and estimation of Lane Geometry using non-Stationary Traffic Surveillance Cameras — PDF URL
+C198 Tracking planar structures with log-polar images — ISR page
+C200 Control of an Aerial blimp based on visual input — ISR page
+C204 Correlation based Vergence Control using Log-Polar Images — ISR page
+C205 Behaviour Based Oculomotor Control Architecture for Stereo Heads — ISR page
+C206 A Real-Time Multi-Agent Planner for a Specific Application — PDF URL

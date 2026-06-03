@@ -101,11 +101,31 @@ a {
 }
 
 .publications ol {
-  padding-left: 1.4rem;
+  list-style-type: decimal;
+  padding-left: 2rem;
 }
 
 .publications li {
-  margin-bottom: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.publications .reference {
+  display: block;
+}
+
+.paper-links-inline {
+  white-space: nowrap;
+  margin-left: 0.35rem;
+}
+
+.paper-links-inline a {
+  margin-left: 0.25rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.paper-links-inline a:hover {
+  text-decoration: underline;
 }
 
 .site-footer {

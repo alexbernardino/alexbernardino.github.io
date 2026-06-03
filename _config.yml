@@ -21,22 +21,24 @@ exclude:
   - .bundle
 
 scholar:
-  style: ieee
+  style: apa
   locale: en
 
   source: ./_bibliography
   bibliography: publications.bib
-  bibliography_template: bib
 
   sort_by: year
   order: descending
 
   replace_strings: true
   join_strings: true
+  reference_tagname: div
+  
+  bibliography_template: bib
 
-  details_dir: bibliography
-  details_layout: page
-  details_link: "Details"
+#  details_dir: bibliography
+#  details_layout: page.html
+#  details_link: "Details"
 
   query: "@*"
 
