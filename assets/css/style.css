@@ -167,14 +167,14 @@ a {
 
 .home-profile {
   display: grid;
-  grid-template-columns: 230px 1fr;
+  grid-template-columns: 280px 1fr;
   gap: 2rem;
   align-items: start;
   margin-bottom: 2rem;
 }
 
 .home-photo img {
-  width: 230px;
+  width: 280px;
   max-width: 100%;
   border-radius: 6px;
 }
@@ -209,7 +209,7 @@ a {
   }
 
   .home-photo img {
-    width: 180px;
+    width: 220px;
   }
 
   .photo-caption {
