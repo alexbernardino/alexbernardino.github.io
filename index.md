@@ -44,7 +44,7 @@ title: Home
 
 ## Short bio
 
-Alexandre Bernardino, is a tenured Associate Professor at Instituto
+Alexandre Bernardino is a tenured Associate Professor at Instituto
 Superior Técnico, Universidade de Lisboa, and senior researcher at the 
 Computer and Robot Vision Lab (Vislab) of the Institute for Systems and 
 Robotics in Lisbon (ISR-Lisboa) and of the Laboratory of Robotics and 
