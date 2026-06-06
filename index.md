@@ -3,44 +3,87 @@ layout: default
 title: Home
 ---
 
-<div class="profile">
-  <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Alexandre Bernardino">
+<div class="home-profile">
 
-  <div>
+  <div class="home-photo">
+    <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Alexandre Bernardino">
+    <p class="photo-caption">Photo of 2021</p>
+  </div>
+
+  <div class="home-summary">
     <h1>Alexandre Bernardino</h1>
 
     <p>
-      I am a researcher and professor working in robotics, computer vision,
-      machine learning, and intelligent systems.
+      Ph.D. IST 2004. Faculty member at DEEC/IST. Senior researcher of ISR-Lisboa / LARSyS. 
     </p>
 
     <p>
-      My research interests include robot perception, active vision,
-      human-robot interaction, learning for robotics, and visual sensing.
+      <strong>Keywords:</strong>
+      Computer Vision, Biological Vision, Visual Learning, Robot Vision,
+      Robot Learning, Humanoid Robots, Cognitive Systems.
     </p>
 
-    <p>
-      <a href="{{ '/publications/' | relative_url }}">Publications</a> ·
-      <a href="{{ '/research/' | relative_url }}">Research</a> ·
-      <a href="{{ '/assets/cv/cv.pdf' | relative_url }}">CV PDF</a>
+    <p class="profile-links">
+      <strong>Links:</strong>
+      <a href="https://scholar.google.pt/citations?user=auFmh9MAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+      <a href="https://www.webofscience.com/wos/author/record/G-1316-2010" target="_blank" rel="noopener noreferrer">ResearcherID</a>
+      <a href="https://orcid.org/0000-0003-3991-1269" target="_blank" rel="noopener noreferrer">ORCID</a>
+      <a href="https://www.scopus.com/authid/detail.uri?authorId=7003407125" target="_blank" rel="noopener noreferrer">Scopus</a>
+      <a href="https://www.cienciavitae.pt//pt/1118-49F0-B28C" target="_blank" rel="noopener noreferrer">CIÊNCIAVITAE</a>
+      <a href="https://dblp.org/pid/53/5306.html" target="_blank" rel="noopener noreferrer">DBLP</a>
+      <a href="https://www.semanticscholar.org/author/Alexandre-Bernardino/145036494" target="_blank" rel="noopener noreferrer">Semantic Scholar</a>
+      <a href="https://www.researchgate.net/profile/Alexandre-Bernardino" target="_blank" rel="noopener noreferrer">ResearchGate</a>
+      <a href="https://github.com/alexbernardino" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a href="https://www.linkedin.com/in/alexandre-bernardino-a302431/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
     </p>
   </div>
+
 </div>
 
-## News
+---
 
-- Add recent news here.
-- Add selected talks, projects, papers, awards, or courses here.
+## Short bio
 
-## Selected research areas
+Alexandre Bernardino, is a tenured Associate Professor at Instituto
+Superior Técnico, Universidade de Lisboa, and senior researcher at the 
+Computer and Robot Vision Lab (Vislab) of the Institute for Systems and 
+Robotics in Lisbon (ISR-Lisboa) and of the Laboratory of Robotics and 
+Engineering Systems (LARSyS).
 
-<div class="card">
-  <h3>Robot perception</h3>
-  <p>Computer vision and sensing for autonomous robots.</p>
-</div>
+Over the years, he has published around 300 papers in robotics, computer vision,
+machine learning, and cognitive systems, with more than 10,000 citations
+according to Google Scholar, h-index 48. He has supervised 22 PhDs and
+coordinated several research projects in Portugal and abroad.
 
-<div class="card">
-  <h3>Machine learning</h3>
-  <p>Learning methods for perception, control, and decision-making.</p>
-</div>
+He is the deputy director of the Computer and Robot Vision Lab at ISR, and
+coordinator of the thematic line INTERACTION at LARSyS, the national Laboratory
+for Robotics and Engineering Systems. He is a Senior Member of the IEEE and
+former chair of the IEEE Portugal Robotics and Automation Chapter.
 
+He is Senior Member of IEEE, the Institute of Electrical and Electronics Engineers, 
+and member of ELLIS, the European Laboratory for Learning and Intelligent Systems. 
+His work focuses on giving robots the ability to see, learn, and
+interact, with applications ranging from healthcare and autonomous vehicles to
+human-robot collaboration. He also explores how robots can be used as scientific
+models to better understand cognitive and natural systems.
+
+<p class="last-updated">
+  Last updated: March 2026
+</p>
+
+---
+
+## Contacts
+
+**Alexandre Bernardino**  
+ISR/IST - Torre Norte, 7º  
+Av. Rovisco Pais  
+1049-001 Lisboa  
+Portugal
+
+Tel. +351-218418293  
+Fax. +351-218418291  
+
+Email: alex(at)isr(dot)tecnico(dot)ulisboa(dot)pt  
+
+Website: <http://www.isr.tecnico.ulisboa.pt/~alex>

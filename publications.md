@@ -4,7 +4,16 @@ title: Publications
 permalink: /publications/
 ---
 
-## Journal papers
+<div class="pub-toc">
+  <a href="#journal-papers">Journal papers</a>
+  <a href="#conference-papers">Conference papers</a>
+  <a href="#book-chapters">Book chapters</a>
+  <a href="#workshop-papers">Workshop papers</a>
+  <a href="#national-papers">National papers</a>
+</div>
+
+---
+## Journal papers {#journal-papers}
 
 <div class="publications">
 
@@ -12,25 +21,31 @@ permalink: /publications/
 
 </div>
 
-## Conference papers
+## Conference papers {#conference-papers}
 
 <div class="publications">
 
 {% bibliography --file conferences %}
 
-## Book chapters
+</div>
+
+## Book chapters {#book-chapters}
 
 <div class="publications">
 
 {% bibliography --file bookchapters %}
 
-## Workshop chapters
+</div>
+
+## Workshop papers and abstracts {#workshop-papers}
 
 <div class="publications">
 
 {% bibliography --file workshops %}
 
-## National papers
+</div>
+
+## National papers {#national-papers}
 
 <div class="publications">
 
