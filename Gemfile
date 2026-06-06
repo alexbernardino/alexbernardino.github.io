@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll"
+gem "jekyll", "~> 4.3.4"
+gem "jekyll-sass-converter", "~> 2.2"
 gem "webrick"
 gem "jekyll-scholar", group: :jekyll_plugins
-
