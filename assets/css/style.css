@@ -215,4 +215,44 @@ a {
   .photo-caption {
     text-align: left;
   }
+  .institution-logos {
+    gap: 1rem;
+  }
+ 
+  .institution-logos a {
+    width: 130px;
+    height: 60px;
+    flex: 0 0 130px;
+  }
+
+  .institution-logos img {
+    max-height: 50px;
+  }
 }
+
+.institution-logos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: center;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.institution-logos a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;          /* fixed box for each logo */
+  height: 70px;
+  flex: 0 0 150px;      /* prevents squeezing/overlap */
+}
+
+.institution-logos img {
+  max-width: 100%;
+  max-height: 60px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+

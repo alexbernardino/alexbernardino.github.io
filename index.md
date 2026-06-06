@@ -40,6 +40,25 @@ title: Home
 
 </div>
 
+
+<div class="institution-logos">
+  <a href="https://tecnico.ulisboa.pt/" target="_blank" rel="noopener noreferrer">
+    <img src="{{ '/assets/img/logos/ist.svg' | relative_url }}" alt="Instituto Superior Técnico">
+  </a>
+
+  <a href="https://welcome.isr.tecnico.ulisboa.pt/" target="_blank" rel="noopener noreferrer">
+    <img src="{{ '/assets/img/logos/isr.png' | relative_url }}" alt="Institute for Systems and Robotics Lisboa">
+  </a>
+
+  <a href="https://www.larsys.pt/" target="_blank" rel="noopener noreferrer">
+    <img src="{{ '/assets/img/logos/larsys.png' | relative_url }}" alt="LARSyS">
+  </a>
+
+  <a href="https://vislab.isr.tecnico.ulisboa.pt/" target="_blank" rel="noopener noreferrer">
+    <img src="{{ '/assets/img/logos/vislab.svg' | relative_url }}" alt="VisLab">
+  </a>
+</div>
+
 ---
 
 ## Short bio
