@@ -17,7 +17,8 @@ permalink: /publications/
 
 <div class="publications">
 
-{% bibliography --file journals %}
+For the complete and up-to-date journal publication list, please see
+[Google Scholar](https://scholar.google.pt/citations?user=auFmh9MAAAAJ&hl=en).
 
 </div>
 
@@ -25,7 +26,8 @@ permalink: /publications/
 
 <div class="publications">
 
-{% bibliography --file conferences %}
+For the complete and up-to-date conference publication list, please see
+[Google Scholar](https://scholar.google.pt/citations?user=auFmh9MAAAAJ&hl=en).
 
 </div>
 
@@ -33,7 +35,8 @@ permalink: /publications/
 
 <div class="publications">
 
-{% bibliography --file bookchapters %}
+For the complete and up-to-date book chapter list, please see
+[Google Scholar](https://scholar.google.pt/citations?user=auFmh9MAAAAJ&hl=en).
 
 </div>
 
@@ -41,7 +44,8 @@ permalink: /publications/
 
 <div class="publications">
 
-{% bibliography --file workshops %}
+For the complete and up-to-date workshop publication list, please see
+[Google Scholar](https://scholar.google.pt/citations?user=auFmh9MAAAAJ&hl=en).
 
 </div>
 
@@ -49,8 +53,7 @@ permalink: /publications/
 
 <div class="publications">
 
-{% bibliography --file national %}
+For the complete and up-to-date national publication list, please see
+[Google Scholar](https://scholar.google.pt/citations?user=auFmh9MAAAAJ&hl=en).
 
 </div>
-
-
