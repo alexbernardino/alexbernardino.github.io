@@ -1,89 +1,89 @@
-\contentsline {section}{Summary}{3}{section*.2}%
-\contentsline {section}{Highlights}{3}{section*.3}%
+\contentsline {section}{Summary}{2}{Doc-Start}%
+\contentsline {section}{Highlights}{3}{Doc-Start}%
 \contentsline {section}{\numberline {1}Presentation}{4}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Personal Data}{4}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Languages}{4}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Researcher Data}{5}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Contact Information}{5}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}Education and Academic Degrees}{5}{subsection.1.5}%
-\contentsline {subsection}{\numberline {1.6}Professional Career}{6}{subsection.1.6}%
-\contentsline {subsection}{\numberline {1.7}Research Career}{6}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.3}Researcher Data}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Contact Information}{4}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Education and Academic Degrees}{4}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Professional Career}{5}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Research Career}{5}{subsection.1.7}%
 \contentsline {section}{\numberline {2}Pedagogical Activity}{7}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Courses}{7}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Innovation and Pedagogical Materials}{7}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Supervision}{8}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Scientific Activity}{9}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Research Lines}{9}{subsection.3.1}%
-\contentsline {subsubsection}{Bioinspired and Learning Robots}{10}{section*.4}%
-\contentsline {subsubsection}{Vision for Decision and Control}{10}{section*.5}%
-\contentsline {subsubsection}{Object Grasping and Manipulation}{11}{section*.6}%
-\contentsline {subsubsection}{Human-Robot Interaction}{11}{section*.7}%
-\contentsline {subsection}{\numberline {3.2}Creation And Reinforcement of Research Infrastructures}{12}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.1.1}Bioinspired and Learning Robots}{9}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Vision for Decision and Control}{10}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Object Grasping and Manipulation}{10}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Human-Robot Interaction}{11}{subsubsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.2}Creation And Reinforcement of Research Infrastructures}{11}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Scientific Publications}{13}{subsection.3.3}%
-\contentsline {subsubsection}{The Ten Most Representative Works}{14}{section*.8}%
-\contentsline {subsubsection}{International Collaborations}{21}{section*.9}%
-\contentsline {subsection}{\numberline {3.4}Scientific Project Grants}{22}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Recognition and Visibility}{23}{subsection.3.5}%
-\contentsline {section}{\numberline {4}External Engagement}{23}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Technology Transfer and Services to the Industry}{23}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Services to the Scientific Community}{24}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Services to Society}{24}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Academic and Research Service}{24}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Management }{24}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Tutoring}{24}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Academic Juries}{24}{subsection.5.3}%
-\contentsline {section}{\numberline {6}Teaching Activities}{25}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Courses}{25}{subsection.6.1}%
-\contentsline {subsubsection}{\numberline {6.1.1}PhD Level Courses (3rd Cycle)}{25}{subsubsection.6.1.1}%
-\contentsline {subsubsection}{\numberline {6.1.2}MSc Level Courses (2\textsuperscript {nd} Cycle)}{25}{subsubsection.6.1.2}%
-\contentsline {subsubsection}{\numberline {6.1.3}BSc Level Courses (1\textsuperscript {st} Cycle)}{28}{subsubsection.6.1.3}%
-\contentsline {subsubsection}{\numberline {6.1.4}Tutorial Courses (1\textsuperscript {st} and 2\textsuperscript {nd} Cycle)}{30}{subsubsection.6.1.4}%
-\contentsline {subsection}{\numberline {6.2}Innovation}{31}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Pedagogical Materials}{33}{subsection.6.3}%
-\contentsline {section}{\numberline {7}Supervision Activities}{38}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Concluded PhD Theses}{38}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Ongoing PhD Theses}{43}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Supervised and Co-Supervised MSc Theses}{45}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}PostDoc Researchers}{59}{subsection.7.4}%
-\contentsline {subsection}{\numberline {7.5}Research Assistants}{59}{subsection.7.5}%
-\contentsline {subsection}{\numberline {7.6}Visiting Students}{62}{subsection.7.6}%
-\contentsline {section}{\numberline {8}Publications}{62}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Papers in Peer-Reviewed International Scientific Journals}{63}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Papers In Peer-Reviewed International Conference Proceedings}{71}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Chapters in Edited Books}{89}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Other Papers and Abstracts in Peer-Reviewed International Meetings}{90}{subsection.8.4}%
-\contentsline {subsection}{\numberline {8.5}Papers in Peer-Reviewed National Journals or Conference Proceedings}{93}{subsection.8.5}%
-\contentsline {subsection}{\numberline {8.6}Theses}{96}{subsection.8.6}%
-\contentsline {section}{\numberline {9}Impact Factors}{96}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Citations}{96}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Journal Impact Factors}{100}{subsection.9.2}%
-\contentsline {section}{\numberline {10}Project Grants}{104}{section.10}%
-\contentsline {subsection}{\numberline {10.1}Project Grants as Global Coordinator}{104}{subsection.10.1}%
-\contentsline {subsection}{\numberline {10.2}Project Grants As Coordinator of Participating Institution}{108}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}Project Grants As Team Member}{112}{subsection.10.3}%
-\contentsline {section}{\numberline {11}Recognition And Visibility}{123}{section.11}%
-\contentsline {subsection}{\numberline {11.1}Prizes}{123}{subsection.11.1}%
-\contentsline {subsection}{\numberline {11.2}Invited Seminars}{124}{subsection.11.2}%
-\contentsline {subsubsection}{\numberline {11.2.1}International}{124}{subsubsection.11.2.1}%
-\contentsline {subsubsection}{\numberline {11.2.2}National}{125}{subsubsection.11.2.2}%
-\contentsline {subsection}{\numberline {11.3}Scientific and Professional Societies}{127}{subsection.11.3}%
-\contentsline {section}{\numberline {12}External Engagement}{127}{section.12}%
-\contentsline {subsection}{\numberline {12.1}Technology Transfer, Patents and Utility Models}{127}{subsection.12.1}%
-\contentsline {subsection}{\numberline {12.2}Services to Industry}{127}{subsection.12.2}%
-\contentsline {subsection}{\numberline {12.3}Organization of International Conferences and Workshops}{128}{subsection.12.3}%
-\contentsline {subsection}{\numberline {12.4}Member of Program, Scientific or Technical Committees}{129}{subsection.12.4}%
-\contentsline {subsection}{\numberline {12.5}Editorial Boards}{131}{subsection.12.5}%
-\contentsline {subsection}{\numberline {12.6}Evaluation of Academic Project Proposals}{131}{subsection.12.6}%
-\contentsline {subsection}{\numberline {12.7}Reviewing Activity}{131}{subsection.12.7}%
-\contentsline {subsubsection}{\numberline {12.7.1}Journals}{131}{subsubsection.12.7.1}%
-\contentsline {subsubsection}{\numberline {12.7.2}Conferences}{132}{subsubsection.12.7.2}%
-\contentsline {subsection}{\numberline {12.8}Communications to the Public}{134}{subsection.12.8}%
-\contentsline {section}{\numberline {13}Academic and Research Service}{135}{section.13}%
-\contentsline {subsection}{\numberline {13.1}Management Positions}{135}{subsection.13.1}%
-\contentsline {subsection}{\numberline {13.2}Tutoring}{136}{subsection.13.2}%
-\contentsline {subsection}{\numberline {13.3}Juries of Academic Degrees Examinations}{136}{subsection.13.3}%
-\contentsline {subsubsection}{\numberline {13.3.1}PhD Thesis Committees}{136}{subsubsection.13.3.1}%
-\contentsline {subsubsection}{\numberline {13.3.2}MSc Thesis Committees}{140}{subsubsection.13.3.2}%
-\contentsline {subsection}{\numberline {13.4}Committees of Research and Faculty Positions}{144}{subsection.13.4}%
-\contentsline {subsection}{\numberline {13.5}Juries of Academic Competitions and Awards}{144}{subsection.13.5}%
-\contentsline {section}{}{144}{section*.10}%
+\contentsline {subsubsection}{\numberline {3.3.1}The Ten Most Representative Works}{13}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}International Collaborations}{24}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Scientific Project Grants}{24}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Recognition and Visibility}{26}{subsection.3.5}%
+\contentsline {section}{\numberline {4}External Engagement}{27}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Technology Transfer and Services to the Industry}{27}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Services to the Scientific Community}{27}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Services to Society}{27}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Academic and Research Service}{28}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Management }{28}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Tutoring}{28}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Academic Juries}{28}{subsection.5.3}%
+\contentsline {section}{Appendices}{29}{section*.1}%
+\contentsline {section}{\numberline {A}Teaching Activities}{29}{appendix.1.A}%
+\contentsline {subsection}{\numberline {A.1}Courses}{29}{subsection.1.A.1}%
+\contentsline {subsubsection}{\numberline {A.1.1}PhD Level Courses (3rd Cycle)}{29}{subsubsection.1.A.1.1}%
+\contentsline {subsubsection}{\numberline {A.1.2}MSc Level Courses (2\textsuperscript {nd} Cycle)}{29}{subsubsection.1.A.1.2}%
+\contentsline {subsubsection}{\numberline {A.1.3}BSc Level Courses (1\textsuperscript {st} Cycle)}{32}{subsubsection.1.A.1.3}%
+\contentsline {subsubsection}{\numberline {A.1.4}Tutorial Courses (1\textsuperscript {st} and 2\textsuperscript {nd} Cycle)}{34}{subsubsection.1.A.1.4}%
+\contentsline {subsection}{\numberline {A.2}Innovation}{35}{subsection.1.A.2}%
+\contentsline {subsection}{\numberline {A.3}Pedagogical Materials}{37}{subsection.1.A.3}%
+\contentsline {section}{\numberline {B}Supervision Activities}{42}{appendix.1.B}%
+\contentsline {subsection}{\numberline {B.1}Concluded PhD Theses}{42}{subsection.1.B.1}%
+\contentsline {subsection}{\numberline {B.2}Ongoing PhD Theses}{47}{subsection.1.B.2}%
+\contentsline {subsection}{\numberline {B.3}Supervised and Co-Supervised MSc Theses}{49}{subsection.1.B.3}%
+\contentsline {subsection}{\numberline {B.4}PostDoc Researchers}{63}{subsection.1.B.4}%
+\contentsline {subsection}{\numberline {B.5}Research Assistants}{63}{subsection.1.B.5}%
+\contentsline {subsection}{\numberline {B.6}Visiting Students}{66}{subsection.1.B.6}%
+\contentsline {section}{\numberline {C}Publications}{67}{appendix.1.C}%
+\contentsline {subsection}{\numberline {C.1}Papers in Peer-Reviewed International Scientific Journals}{67}{subsection.1.C.1}%
+\contentsline {subsection}{\numberline {C.2}Papers In Peer-Reviewed International Conference Proceedings}{76}{subsection.1.C.2}%
+\contentsline {subsection}{\numberline {C.3}Chapters in Edited Books}{93}{subsection.1.C.3}%
+\contentsline {subsection}{\numberline {C.4}Other Papers and Abstracts in Peer-Reviewed International Meetings}{94}{subsection.1.C.4}%
+\contentsline {subsection}{\numberline {C.5}Papers in Peer-Reviewed National Journals or Conference Proceedings}{97}{subsection.1.C.5}%
+\contentsline {subsection}{\numberline {C.6}Theses}{100}{subsection.1.C.6}%
+\contentsline {section}{\numberline {D}Impact Factors}{101}{appendix.1.D}%
+\contentsline {subsection}{\numberline {D.1}Citations}{101}{subsection.1.D.1}%
+\contentsline {subsection}{\numberline {D.2}Journal Impact Factors}{104}{subsection.1.D.2}%
+\contentsline {section}{\numberline {E}Project Grants}{109}{appendix.1.E}%
+\contentsline {subsection}{\numberline {E.1}Project Grants as Global Coordinator}{109}{subsection.1.E.1}%
+\contentsline {subsection}{\numberline {E.2}Project Grants As Coordinator of Participating Institution}{112}{subsection.1.E.2}%
+\contentsline {subsection}{\numberline {E.3}Project Grants As Team Member}{116}{subsection.1.E.3}%
+\contentsline {section}{\numberline {F}Recognition And Visibility}{129}{appendix.1.F}%
+\contentsline {subsection}{\numberline {F.1}Prizes}{129}{subsection.1.F.1}%
+\contentsline {subsection}{\numberline {F.2}Invited Seminars}{130}{subsection.1.F.2}%
+\contentsline {subsubsection}{\numberline {F.2.1}International}{130}{subsubsection.1.F.2.1}%
+\contentsline {subsubsection}{\numberline {F.2.2}National}{131}{subsubsection.1.F.2.2}%
+\contentsline {subsection}{\numberline {F.3}Scientific and Professional Societies}{132}{subsection.1.F.3}%
+\contentsline {section}{\numberline {G}External Engagement}{133}{appendix.1.G}%
+\contentsline {subsection}{\numberline {G.1}Technology Transfer, Patents and Utility Models}{133}{subsection.1.G.1}%
+\contentsline {subsection}{\numberline {G.2}Services to Industry}{133}{subsection.1.G.2}%
+\contentsline {subsection}{\numberline {G.3}Organization of International Conferences and Workshops}{134}{subsection.1.G.3}%
+\contentsline {subsection}{\numberline {G.4}Member of Program, Scientific or Technical Committees}{134}{subsection.1.G.4}%
+\contentsline {subsection}{\numberline {G.5}Editorial Boards}{137}{subsection.1.G.5}%
+\contentsline {subsection}{\numberline {G.6}Evaluation of Academic Project Proposals}{137}{subsection.1.G.6}%
+\contentsline {subsection}{\numberline {G.7}Reviewing Activity}{137}{subsection.1.G.7}%
+\contentsline {subsubsection}{\numberline {G.7.1}Journals}{137}{subsubsection.1.G.7.1}%
+\contentsline {subsubsection}{\numberline {G.7.2}Conferences}{138}{subsubsection.1.G.7.2}%
+\contentsline {subsection}{\numberline {G.8}Communications to the Public}{140}{subsection.1.G.8}%
+\contentsline {section}{\numberline {H}Academic and Research Service}{142}{appendix.1.H}%
+\contentsline {subsection}{\numberline {H.1}Management Positions}{142}{subsection.1.H.1}%
+\contentsline {subsection}{\numberline {H.2}Tutoring}{142}{subsection.1.H.2}%
+\contentsline {subsection}{\numberline {H.3}Juries of Academic Degrees Examinations}{142}{subsection.1.H.3}%
+\contentsline {subsubsection}{\numberline {H.3.1}PhD Thesis Committees}{142}{subsubsection.1.H.3.1}%
+\contentsline {subsubsection}{\numberline {H.3.2}MSc Thesis Committees}{146}{subsubsection.1.H.3.2}%
+\contentsline {subsection}{\numberline {H.4}Committees of Research and Faculty Positions}{150}{subsection.1.H.4}%
+\contentsline {subsection}{\numberline {H.5}Juries of Academic Competitions and Awards}{150}{subsection.1.H.5}%

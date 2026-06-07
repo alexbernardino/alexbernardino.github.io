@@ -1,19 +1,21 @@
 % Options for packages loaded elsewhere
-\PassOptionsToPackage{unicode}{hyperref}
-\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{unicode}{hyperref} %Passes the option unicode to the hyperref package. This helps PDF metadata and bookmarks handle Unicode characters correctly.
+\PassOptionsToPackage{hyphens}{url}%Allows URLs to break at hyphens. Useful when long URLs appear in the PDF.
 %
 \documentclass[11pt,a4paper]{article}
-\usepackage{fontspec}
-\setmainfont{texgyrepagella}[
+\usepackage{fontspec} %Loads modern font handling for XeLaTeX/LuaLaTeX. This is what allows \setmainfont.
+\setmainfont[
   Extension = .otf,
   UprightFont = *-regular,
   BoldFont = *-bold,
   ItalicFont = *-italic,
   BoldItalicFont = *-bolditalic
-]
-\usepackage[a4paper,margin=2.5cm]{geometry}
-\usepackage{amsmath,amssymb}
-\usepackage{iftex}
+]{texgyrepagella} %Sets the main text font to TeX Gyre Pagella
+
+\usepackage[a4paper,margin=2.5cm]{geometry} %Sets page layout. The paper is A4 and all margins are 2.5 cm.
+\usepackage{amsmath,amssymb} %Loads AMS mathematical packages. amsmath improves equation environments; amssymb adds extra mathematical symbols.
+\usepackage{iftex} %Loads a package that lets the document detect which engine is being used: pdfLaTeX, XeLaTeX, or LuaLaTeX.
+
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
@@ -23,17 +25,17 @@
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
 \fi
+
 \usepackage{lmodern}
-\ifPDFTeX\else
-  % xetex/luatex font selection
-\fi
+
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 \IfFileExists{microtype.sty}{% use microtype if available
   \usepackage[]{microtype}
   \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
-\makeatletter
+
+\makeatletter 
 \@ifundefined{KOMAClassName}{% if non-KOMA class
   \IfFileExists{parskip.sty}{%
     \usepackage{parskip}
@@ -43,19 +45,26 @@
 }{% if KOMA class
   \KOMAoptions{parskip=half}}
 \makeatother
+
 \usepackage{xcolor}
-\usepackage{longtable,booktabs,array}
+
+\usepackage{longtable,booktabs,array} %longtable allows tables to span multiple pages., booktabs gives high-quality table rules, array improves column formatting.
+
 \usepackage{calc} % for calculating minipage widths
+
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
+
 \makeatletter
 \patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
 \makeatother
+
 % Allow footnotes in longtable head/foot
 \IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
 \makesavenoteenv{longtable}
 \usepackage{graphicx}
 \usepackage{tikz}
+
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -65,28 +74,61 @@
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
 % Set default figure placement to htbp
+
 \makeatletter
 \def\fps@figure{htbp}
 \makeatother
+
 \ifLuaTeX
   \usepackage{luacolor}
   \usepackage[soul]{lua-ul}
 \else
   \usepackage{soul}
 \fi
+
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
+
 \ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
+
 \usepackage{bookmark}
+
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+
 \urlstyle{same}
 \hypersetup{
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
+  
+  % For nicer titles
+\usepackage{titlesec}
+
+% For Appendices appearing in the TOC
+\usepackage[toc]{appendix}
+
+\usepackage{enumitem}
+
+\newenvironment{cvfields}
+  {\begin{itemize}[
+    leftmargin=3.5cm,
+    labelwidth=3.0cm,
+    labelsep=0.5cm,
+    align=left,
+    itemsep=0.10em,
+    topsep=0.15em,
+    parsep=0pt
+  ]}
+  {\end{itemize}}
+
+\newcommand{\cvitem}[2]{%
+  \item[\textbf{#1:}] #2%
+}
+
+\newcommand{\cvdegreegap}{\vspace{0.3em}}
 
 \author{}
 \date{}
@@ -120,19 +162,34 @@
 \clearpage
 
 \input{sections/01-summary.tex}
+\clearpage
 \input{sections/02-highlights.tex}
+\clearpage
 \input{sections/03-presentation.tex}
+\clearpage
 \input{sections/04-pedagogical-activity.tex}
+\clearpage
 \input{sections/05-scientific-activity.tex}
+\clearpage
 \input{sections/06-external-engagement.tex}
+\clearpage
 \input{sections/07-academic-and-research-service.tex}
+\clearpage
+\begin{appendices}
 \input{sections/08-teaching-activities.tex}
+\clearpage
 \input{sections/09-supervision-activities.tex}
+\clearpage
 \input{sections/10-publications.tex}
+\clearpage
 \input{sections/11-impact-factors.tex}
+\clearpage
 \input{sections/12-project-grants.tex}
+\clearpage
 \input{sections/13-recognition-and-visibility.tex}
+\clearpage
 \input{sections/14-external-engagement.tex}
+\clearpage
 \input{sections/15-academic-and-research-service.tex}
-
+\end{appendices}
 \end{document}
