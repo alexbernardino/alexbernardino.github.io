@@ -217,6 +217,7 @@ a {
   }
   .institution-logos {
     gap: 1rem;
+    justify-content: center;   /* centers the whole bar */
   }
  
   .institution-logos a {
@@ -233,6 +234,7 @@ a {
 .institution-logos {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;   /* centers the whole bar */
   gap: 1.5rem;
   align-items: center;
   margin: 1.5rem 0 2rem 0;
@@ -242,9 +244,9 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 150px;          /* fixed box for each logo */
+  width: 160px;          /* fixed box for each logo */
   height: 70px;
-  flex: 0 0 150px;      /* prevents squeezing/overlap */
+  flex: 0 0 160px;      /* prevents squeezing/overlap */
 }
 
 .institution-logos img {

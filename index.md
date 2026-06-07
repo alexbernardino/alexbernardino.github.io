@@ -14,7 +14,17 @@ title: Home
     <h1>Alexandre Bernardino</h1>
 
     <p>
-      Ph.D. IST 2004. Faculty member at DEEC/IST. Senior researcher of ISR-Lisboa / LARSyS. 
+      Faculty member at 
+      <a href="https://deec.tecnico.ulisboa.pt/" target="_blank" rel="noopener noreferrer">  DEEC </a>
+      / 
+      <a href="https://tecnico.ulisboa.pt/" target="_blank" rel="noopener noreferrer">  IST </a>
+      . 
+      Senior researcher of 
+      <a href="https://vislab.isr.tecnico.ulisboa.pt/" target="_blank" rel="noopener noreferrer">  Vislab </a> 
+      / 
+      <a href="https://welcome.isr.tecnico.ulisboa.pt/" target="_blank" rel="noopener noreferrer">  ISR-Lisboa </a> 
+      / 
+      <a href="https://larsys.pt/" target="_blank" rel="noopener noreferrer">  LARSyS </a> 
     </p>
 
     <p>
@@ -50,7 +60,7 @@ title: Home
     <img src="{{ '/assets/img/logos/isr.png' | relative_url }}" alt="Institute for Systems and Robotics Lisboa">
   </a>
 
-  <a href="https://www.larsys.pt/" target="_blank" rel="noopener noreferrer">
+  <a href="https://larsys.pt/" target="_blank" rel="noopener noreferrer">
     <img src="{{ '/assets/img/logos/larsys.png' | relative_url }}" alt="LARSyS">
   </a>
 
@@ -63,7 +73,7 @@ title: Home
 
 ## Short bio
 
-Alexandre Bernardino is a tenured Associate Professor at Instituto
+Alexandre Bernardino (PhD 2004 IST) is a tenured Associate Professor at Instituto
 Superior Técnico, Universidade de Lisboa, and senior researcher at the 
 Computer and Robot Vision Lab (Vislab) of the Institute for Systems and 
 Robotics in Lisbon (ISR-Lisboa) and of the Laboratory of Robotics and 
