@@ -105,14 +105,10 @@ models to better understand cognitive and natural systems.
 ## Contacts
 
 **Alexandre Bernardino**  
-ISR/IST - Torre Norte, 7º  
+ISR/IST - North Tower,
+Floor 7, Room 7.25, Ext. 2299  
 Av. Rovisco Pais  
 1049-001 Lisboa  
 Portugal
-
-Tel. +351-218418293  
-Fax. +351-218418291  
-
-Email: alex(at)isr(dot)tecnico(dot)ulisboa(dot)pt  
-
+Tel. +351-218418299  
 Website: <http://www.isr.tecnico.ulisboa.pt/~alex>
