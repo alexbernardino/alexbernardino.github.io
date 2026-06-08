@@ -44,7 +44,6 @@ title: Home
       <a href="https://www.semanticscholar.org/author/Alexandre-Bernardino/145036494" target="_blank" rel="noopener noreferrer">Semantic Scholar</a>
       <a href="https://www.researchgate.net/profile/Alexandre-Bernardino" target="_blank" rel="noopener noreferrer">ResearchGate</a>
       <a href="https://github.com/alexbernardino" target="_blank" rel="noopener noreferrer">GitHub</a>
-      <a href="https://www.linkedin.com/in/alexandre-bernardino-a302431/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
     </p>
   </div>
 
@@ -112,3 +111,4 @@ Av. Rovisco Pais
 Portugal
 Tel. +351-218418299  
 Website: <http://www.isr.tecnico.ulisboa.pt/~alex>
+LinkedIn: <https://www.linkedin.com/in/alexandre-bernardino-a302431>

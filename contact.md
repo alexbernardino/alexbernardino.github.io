@@ -13,6 +13,7 @@ Av. Rovisco Pais
 Portugal
 Tel. +351-218418299  
 Website: <http://www.isr.tecnico.ulisboa.pt/~alex>
+LinkedIn: <https://www.linkedin.com/in/alexandre-bernardino-a302431>
 
 
 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.7)  7 JUN 2026 23:50
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.7)  8 JUN 2026 08:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -887,7 +887,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count349
 \enitdp@description=\count350
 )
-No file main.aux.
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 139.
@@ -910,6 +910,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 139.
 LaTeX Font Info:    ... okay on input line 139.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 139.
 LaTeX Font Info:    ... okay on input line 139.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1228,51 +1229,33 @@ File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
 ern Roman (RS)
 )
 Package hyperref Info: Link coloring OFF on input line 139.
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 File: media/image2.pdf Graphic file (type pdf)
 <use media/image2.pdf>
-[1
+ [1
 
-]
-No file main.toc.
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
-[1
-
-] (./sections/01-summary.tex) [2
-
-] (./sections/02-highlights.tex) [3
-
-]
-(./sections/03-presentation.tex
+] (./main.toc
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.665pt on input line 28.
+(Font)              scaled to size 7.665pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.475pt on input line 28.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-8.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
+(Font)              scaled to size 5.475pt on input line 4.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4
+.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95099pt on input line 28.
+(Font)              scaled to size 10.95099pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.66568pt on input line 28.
+(Font)              scaled to size 7.66568pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.4755pt on input line 28.
+(Font)              scaled to size 5.4755pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 28.
+(Font)              scaled to size 10.94882pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 28.
+(Font)              scaled to size 7.66417pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 28.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
-
+(Font)              scaled to size 5.47441pt on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1280,63 +1263,39 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-) [4
+) [1
+
+])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+[2] (./sections/01-summary.tex) [3
+
+] (./sections/02-highlights.tex) [4
 
 ]
-[5]) [6] (./sections/04-pedagogical-activity.tex
+(./sections/03-presentation.tex [5
 
-LaTeX Warning: Reference `courses-1' on page 7 undefined on input line 28.
+] [6]) [7]
+(./sections/04-pedagogical-activity.tex [8
 
+]) [9]
+(./sections/05-scientific-activity.tex [10
 
-LaTeX Warning: Reference `innovation' on page 7 undefined on input line 40.
-
-
-LaTeX Warning: Reference `pedagogical-materials' on page 7 undefined on input l
-ine 40.
-
-[7
-
-]
-
-LaTeX Warning: Reference `supervision-activities' on page 8 undefined on input 
-line 142.
-
-) [8] (./sections/05-scientific-activity.tex
-
-LaTeX Warning: Reference `supervision-activities' on page 9 undefined on input 
-line 33.
-
-
-LaTeX Warning: Reference `project-grants' on page 9 undefined on input line 33.
-
-
-[9
-
-] [10] [11] [12]
-
-LaTeX Warning: Reference `publications' on page 13 undefined on input line 319.
-
-
-
-LaTeX Warning: Reference `impact-factors' on page 13 undefined on input line 32
-0.
-
-[13]
+] [11] [12] [13] [14]
 
 LaTeX Font Warning: Font shape `TU/lmr/b/sc' undefined
 (Font)              using `TU/lmr/b/n' instead on input line 342.
 
-[14
-
-] [15
+[15
 
 ] [16
 
@@ -1354,62 +1313,19 @@ LaTeX Font Warning: Font shape `TU/lmr/b/sc' undefined
 
 ] [23
 
-]
+] [24
 
-LaTeX Warning: Reference `project-grants' on page 24 undefined on input line 98
-3.
-
-[24
+] [25
 
 ]
 
 LaTeX Font Warning: Font shape `TU/lmr/b/it' in size <10.95> not available
 (Font)              Font shape `TU/lmr/b/sl' tried instead on input line 1044.
 
+) [26] [27] (./sections/06-external-engagement.tex) [28
 
-LaTeX Warning: Reference `recognition-and-visibility-1' on page 25 undefined on
- input line 1090.
-
-) [25] [26] (./sections/06-external-engagement.tex
-
-LaTeX Warning: Reference `technology-transfer-patents-and-utility-models' on pa
-ge 27 undefined on input line 37.
-
-
-LaTeX Warning: Reference `services-to-industry' on page 27 undefined on input l
-ine 37.
-
-
-LaTeX Warning: Reference `organization-of-international-conferences-and-worksho
-ps' on page 27 undefined on input line 47.
-
-
-LaTeX Warning: Reference `member-of-program-scientific-or-technical-committees'
- on page 27 undefined on input line 48.
-
-
-LaTeX Warning: Reference `editorial-boards' on page 27 undefined on input line 
-51.
-
-
-LaTeX Warning: Reference `evaluation-of-academic-project-proposals' on page 27 
-undefined on input line 53.
-
-
-LaTeX Warning: Reference `reviewing-activity' on page 27 undefined on input lin
-e 54.
-
-
-LaTeX Warning: Reference `communications-to-the-public' on page 27 undefined on
- input line 64.
-
-) [27
-
-] (./sections/07-academic-and-research-service.tex
-
-LaTeX Warning: Reference `management-positions' on page 28 undefined on input l
-ine 17.
-
+]
+(./sections/07-academic-and-research-service.tex
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 21.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
@@ -1428,44 +1344,26 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.99936pt on input line 21.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 21.
+) [29
 
-LaTeX Warning: Reference `tutoring-1' on page 28 undefined on input line 29.
+]
+(./sections/08-teaching-activities.tex [30
 
+] [31] [32] [33] [34] [35] [36]
+[37] [38] [39] [40] [41]) [42] (./sections/09-supervision-activities.tex
+[43
 
-LaTeX Warning: Reference `phd-thesis-committees' on page 28 undefined on input 
-line 34.
-
-
-LaTeX Warning: Reference `msc-thesis-committees' on page 28 undefined on input 
-line 35.
-
-
-LaTeX Warning: Reference `committees-of-research-and-faculty-positions' on page
- 28 undefined on input line 38.
-
-
-LaTeX Warning: Reference `juries-of-academic-competitions-and-awards' on page 2
-8 undefined on input line 42.
-
-) [28
-
-] (./sections/08-teaching-activities.tex [29
-
-] [30] [31] [32] [33] [34]
-[35] [36] [37] [38] [39] [40]) [41] (./sections/09-supervision-activities.tex
-[42
-
-] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56]
-[57] [58] [59]
+] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57]
+[58] [59] [60]
 Underfull \hbox (badness 1789) in paragraph at lines 1766--1771
 []\TU/lmr/m/n/10.95 Marco André Martins Henriques. \TU/lmr/b/sl/10.95 Controlo 
 e Planeamento de Mãos Robóticas
  []
 
-[60] [61] [62] [63] [64] [65]) [66] (./sections/10-publications.tex [67
+[61] [62] [63] [64] [65] [66]) [67] (./sections/10-publications.tex [68
 
 ]
-[68] [69] [70]
+[69] [70] [71]
 Underfull \hbox (badness 1735) in paragraph at lines 361--367
 \TU/lmr/m/n/10.95 Grounded Affordances to Interpret and Describe Others[] Actio
 ns”, \TU/lmr/m/it/10.95 IEEE Trans-
@@ -1477,19 +1375,19 @@ Underfull \hbox (badness 1009) in paragraph at lines 361--367
 10.95 12(2), pp 209 - 221. []$[] [] [] [] [] []
  []
 
-[71] [72] [73] [74] [75] [76] [77] [78]
+[72] [73] [74] [75] [76] [77] [78] [79]
 Underfull \hbox (badness 1009) in paragraph at lines 947--952
 []\TU/lmr/m/n/10.95 H. Harkat, J.M.P. Nascimento, and []A. [][]Bernardino (2021
 ), “Fire Detection using
  []
 
-[79] [80] [81]
+[80] [81] [82]
 Underfull \hbox (badness 1577) in paragraph at lines 1119--1125
 \TU/lmr/m/it/10.95 IEEE International Conference on Autonomous Robot Systems an
 d Competitions
  []
 
-[82] [83]
+[83] [84]
 Underfull \hbox (badness 1810) in paragraph at lines 1244--1251
 \TU/lmr/m/n/10.95 identification in frontal gait sequences via Histogram of Opt
 ic flow Energy Im-
@@ -1501,31 +1399,31 @@ Overfull \hbox (0.21832pt too wide) in paragraph at lines 1251--1257
 E/RSJ International Conference on Intelligent
  []
 
-[84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98]
-[99]) [100] (./sections/11-impact-factors.tex
+[85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99]
+[100]) [101] (./sections/11-impact-factors.tex
 File: media/image3.png Graphic file (type bmp)
 <media/image3.png>
 File: media/image4.png Graphic file (type bmp)
 <media/image4.png>
- [101
+ [102
 
 ]
 File: media/image5.png Graphic file (type bmp)
 <media/image5.png>
 File: media/image6.png Graphic file (type bmp)
 <media/image6.png>
- [102] [103] [104] [105]
-[106] [107]) [108] (./sections/12-project-grants.tex [109
+ [103] [104] [105] [106]
+[107] [108]) [109] (./sections/12-project-grants.tex [110
 
-] [110] [111] [112]
-[113] [114] [115] [116]
+] [111] [112] [113]
+[114] [115] [116] [117]
 Missing character: There is no ̧ (U+0327) in font [lmroman10-italic]:mapping=te
 x-text;!
-[117] [118] [119]
+[118] [119] [120]
 Missing character: There is no ̧ (U+0327) in font [lmroman10-italic]:mapping=te
 x-text;!
-[120] [121] [122] [123] [124] [125] [126] [127]) [128]
-(./sections/13-recognition-and-visibility.tex [129
+[121] [122] [123] [124] [125] [126] [127] [128]) [129]
+(./sections/13-recognition-and-visibility.tex [130
 
 ]
 Underfull \hbox (badness 1400) in paragraph at lines 98--101
@@ -1533,10 +1431,10 @@ Underfull \hbox (badness 1400) in paragraph at lines 98--101
 Humanoid Robot Programming\TU/lmr/m/n/10.95 , Santa
  []
 
-[130] [131]) [132] (./sections/14-external-engagement.tex [133
+[131] [132]) [133] (./sections/14-external-engagement.tex [134
 
-] [134] [135]
-[136] [137] [138] [139]
+] [135] [136]
+[137] [138] [139] [140]
 Underfull \hbox (badness 2401) in paragraph at lines 605--609
 []\TU/lmr/m/n/10.95 “Celebrar as Mulheres na Engenharia”, Beatriz Silva, Alexan
 dre Bernardino; i-
@@ -1548,15 +1446,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 605--609
 brar-as-mulheres-na-
  []
 
-[140]) [141] (./sections/15-academic-and-research-service.tex [142
+[141]) [142] (./sections/15-academic-and-research-service.tex [143
 
-] [143]
+] [144]
 Underfull \hbox (badness 2142) in paragraph at lines 188--192
 []\TU/lmr/m/n/10.95 Seyed Jafar Hosseini Shamoushaki, “Deformable Surface Recon
 struction Through
  []
 
-[144] [145]
+[145] [146]
 Underfull \hbox (badness 3514) in paragraph at lines 335--339
 []\TU/lmr/m/n/10.95 Adolfo Martínez Usó, “Unsupervised Band Selection and Segme
 ntation in Hy-
@@ -1568,7 +1466,7 @@ Underfull \hbox (badness 1132) in paragraph at lines 335--339
 me I\TU/lmr/m/n/10.95 , Castellon de la Plana, Espanha,
  []
 
-[146] [147] [148] [149] [150]) [151] (./main.aux)
+[147] [148] [149] [150] [151]) [152] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1578,19 +1476,16 @@ L3 programming layer <2024-02-20>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 30305 strings out of 474773
- 593329 string characters out of 5757724
+ 30311 strings out of 474773
+ 593407 string characters out of 5757724
  2022839 words of memory out of 5000000
- 51905 multiletter control sequences out of 15000+600000
+ 51907 multiletter control sequences out of 15000+600000
  564902 words of font info for 98 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,8n,121p,1193b,1076s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (152 pages).
+Output written on main.pdf (153 pages).
