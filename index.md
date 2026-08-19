@@ -7,7 +7,7 @@ title: Home
 
   <div class="home-photo">
     <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Alexandre Bernardino">
-    <p class="photo-caption">Photo of 2021</p>
+    <p class="photo-caption">Photo of 2026</p>
   </div>
 
   <div class="home-summary">
