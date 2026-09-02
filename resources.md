@@ -9,9 +9,9 @@ permalink: /resources/
 
 ## Interactive demos
 
-- <a href="https://alexbernardino.github.io/regression-interactive/" target="_blank" rel="noopener noreferrer">Regression interactive demo</a>
-
 - <a href="https://alexbernardino.github.io/knn-interactive/" target="_blank" rel="noopener noreferrer">K Nearest Neighbour interactive demo</a>
+
+- <a href="https://alexbernardino.github.io/regression-interactive/" target="_blank" rel="noopener noreferrer">Regression interactive demo</a>
 
 ---
 
